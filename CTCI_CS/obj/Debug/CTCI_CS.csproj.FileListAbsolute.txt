@@ -1,0 +1,6 @@
+c:\users\eescueta\documents\visual studio 2013\Projects\CTCI_CS\CTCI_CS\bin\Debug\CTCI_CS.exe.config
+c:\users\eescueta\documents\visual studio 2013\Projects\CTCI_CS\CTCI_CS\bin\Debug\CTCI_CS.exe
+c:\users\eescueta\documents\visual studio 2013\Projects\CTCI_CS\CTCI_CS\bin\Debug\CTCI_CS.pdb
+c:\users\eescueta\documents\visual studio 2013\Projects\CTCI_CS\CTCI_CS\obj\Debug\CTCI_CS.csprojResolveAssemblyReference.cache
+c:\users\eescueta\documents\visual studio 2013\Projects\CTCI_CS\CTCI_CS\obj\Debug\CTCI_CS.exe
+c:\users\eescueta\documents\visual studio 2013\Projects\CTCI_CS\CTCI_CS\obj\Debug\CTCI_CS.pdb
