@@ -1,0 +1,8 @@
+CTCI_CS.sln
+CTCI_CS.v12.suo
+CTCI_CS/bin/*
+CTCI_CS/obj/*
+CTCI_CS/Properties/*
+CTCI_CS/App.config
+CTCI_CS/Program.cs
+CTCI_CS/CTCI_CS.csproj
